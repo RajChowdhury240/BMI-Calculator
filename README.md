@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![alt text](https://www.inovex.de/blog/wp-content/uploads/2019/01/Flutter-1-1.png)
 
 
 # BMI Calculator 💪
@@ -26,7 +26,3 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - Understand Dart Enums and the Ternary Operator.
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
