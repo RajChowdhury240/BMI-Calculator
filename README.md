@@ -1,7 +1,8 @@
-![alt text](https://www.inovex.de/blog/wp-content/uploads/2019/01/Flutter-1-1.png)
-
 
 # BMI Calculator 💪
+
+![alt text](https://www.inovex.de/blog/wp-content/uploads/2019/01/Flutter-1-1.png)
+
 
 ##  Preview of The App
 
