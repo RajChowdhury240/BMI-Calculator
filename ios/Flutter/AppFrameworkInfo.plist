@@ -4,6 +4,7 @@
 <dict>
   <key>CFBundleDevelopmentRegion</key>
   <string>en</string>
+  
   <key>CFBundleExecutable</key>
   <string>App</string>
   
