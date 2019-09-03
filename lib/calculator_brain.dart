@@ -13,6 +13,7 @@ class CalculatorBrain {
     return _bmi.toStringAsFixed(1);
   }
 
+  
   String getResult() {
     if (_bmi >= 25) {
       return 'Overweight';
