@@ -9,5 +9,4 @@
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
 
-
 ![alt text](https://raw.githubusercontent.com/voicon/flutter-bmi-calculator/master/readme-assets/flutter-bmi-calculator.png)
